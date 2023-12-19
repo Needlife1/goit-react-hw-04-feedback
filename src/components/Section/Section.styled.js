@@ -5,7 +5,7 @@ export const SectionStyled = styled('div')`
   border: 1px solid greenyellow;
   margin: 0 auto;
   color: greenyellow;
-  padding: 10px;
+  padding: 11px;
   background-color: black;
 
   .position {
